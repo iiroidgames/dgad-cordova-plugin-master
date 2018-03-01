@@ -1,0 +1,39 @@
+{
+  "name": "dgad-cordova-plugin",
+  "version": "1.0",
+  "description": "Use dgad in cordova",
+  "cordova": {
+    "id": "dgad-cordova-plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miladesign/dgad-cordova-plugin.git"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "ad",
+    "dgad",
+    "monetisation",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+"devDependencies": {
+    "cordova": ">=3.0.0"
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Milad Mohammadi",
+  "license": "MilaDesign",
+  "bugs": {
+    "url": "https://github.com/miladesign/dgad-cordova-plugin/issues"
+  },
+  "homepage": "https://github.com/miladesign/dgad-cordova-plugin#readme"
+}

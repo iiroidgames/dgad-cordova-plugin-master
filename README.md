@@ -1,2 +1,3 @@
-# dgad-cordova-plugin-master
-dgad cordova plugin
+Dgad ad Cordova plugin
+====================
+Dgad ad plugin for Cordova and Phonegap.<br/>
